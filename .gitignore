@@ -11,3 +11,4 @@
 *manifest.txt
 /war/WEB-INF/deploy/gwttests/rpcPolicyManifest/manifests/
 /target/
+/bin/
